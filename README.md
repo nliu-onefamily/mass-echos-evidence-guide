@@ -6,10 +6,6 @@ A single-page internal reference that organizes key wealth findings from the Fed
 
 **[https://nliu-onefamily.github.io/mass-echos-evidence-guide/](https://YOUR-USERNAME.github.io/mass-echos-evidence-guide/)**
 
-Bookmark this link — it's always the latest version.
-
-> **Replace `YOUR-USERNAME`** with the actual GitHub username or organization name after you publish.
-
 ---
 
 ## For team members (no coding required)
